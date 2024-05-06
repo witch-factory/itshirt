@@ -2,3 +2,4 @@ hello git cli
 my branch job
 my branch second job
 기능1 추가
+핫픽스 수정사항
