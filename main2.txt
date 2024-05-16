@@ -1,2 +1,2 @@
-main branch2
-test edit
+conflict1
+conflict edit
